@@ -15,10 +15,10 @@ text_color_theme: orange #eg: default | dark | forest | ocean | chocolate | oran
 ## Base settings ##
 url: "http://www.cnfeat.com"   #the base hostname & protocol for your site e.g. https://www.someone.com
 baseurl: /
-title: Blueice's blog  
+title: Cherry's blog  
 subtitle: 静听雨声
 description: > #this means to ignore newlines until "nav_lists:"
-  Blueice's Blog
+  Cherry's Blog
 
 nav_lists:
   - titles:
@@ -44,8 +44,8 @@ timezone: Asia/Shanghai #see https://en.wikipedia.org/wiki/List_of_tz_database_t
 
 ## Author & social ##
 author:
-  name: Blueice
-  email: "Email: lbship@163.com" #your Email address e.g. someone@site.com
+  name: Cherry
+  # email:  #your Email address e.g. someone@site.com
   # facebook:  #your Facebook username
   # twitter:  #your Twitter username
   # github:  #your GitHub username
